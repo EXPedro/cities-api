@@ -1,7 +1,7 @@
 # 🏙️ Cities API 🌆
 
-- __API Rest__ para consulta de cidades do Brasil.   
-- Realiza o cálculo da distância entre todas as cidades brasileiras presentes 
+- Frontend para __API Rest__ de consulta de cidades do Brasil.   
+- Implementa cálculo da distância entre todas as cidades brasileiras presentes 
 neste banco de dados disponibilizado pelo gitUsuário [__Chinnon Santos__](https://github.com/chinnonsantos/sql-paises-estados-cidades).
 
 ## Preaprando a base de dados:
